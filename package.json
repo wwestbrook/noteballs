@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "bulma": "^0.9.4",
+    "pinia": "^2.0.14",
     "vue": "^3.2.36",
     "vue-router": "^4.0.16"
   },
@@ -26,6 +27,7 @@
     "trailingComma": "none",
     "endOfLine": "crlf",
     "printWidth": 120,
-    "singleAttributePerLine": true
+    "singleAttributePerLine": true,
+    "bracketSpacing": true
   }
 }

@@ -9,9 +9,9 @@ module.exports = {
     '@vue/eslint-config-prettier',
   ],
   rules: {
-    quotes: ['error', 'single', { avoidEscape: true }]
+    quotes: ['error', 'single', { avoidEscape: true }],
   },
   env: {
-    'vue/setup-compiler-macros': true,
-  },
+    'vue/setup-compiler-macros': true
+  }
 };
